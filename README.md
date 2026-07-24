@@ -13,7 +13,7 @@ Lifelong Learner...
     - :keyboard: I’m currently learning Web Programming. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:contact.wildanpratama@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: Her. </br>
+    - :cloud: Pronouns: Him. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
